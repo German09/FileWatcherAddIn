@@ -1,0 +1,30 @@
+# Prerequisites
+*.d
+*.o
+*.obj
+*.dll
+*.so
+*.lib
+*.exp
+*.pdb
+*.ilk
+
+# Build
+build/
+build32/
+cmake-build-*/
+out/
+.vs/
+CMakeUserPresets.json
+
+# IDE
+.idea/
+*.user
+*.suo
+
+# Локальные сборки и диагностика
+/build-*/
+/dist/
+/tools/
+/FileWatcher.def
+/FileWatcher64.def

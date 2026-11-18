@@ -1,0 +1,7 @@
+LIBRARY FileWatcher
+EXPORTS
+    GetClassObject
+    DestroyObject
+    GetClassNames
+    SetPlatformCapabilities
+    GetAttachType

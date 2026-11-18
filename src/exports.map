@@ -1,0 +1,11 @@
+{
+  global:
+    GetClassObject;
+    DestroyObject;
+    GetClassNames;
+    SetPlatformCapabilities;
+    GetAttachType;
+    GetPlatformCapabilities;
+  local:
+    *;
+};
